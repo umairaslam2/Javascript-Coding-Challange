@@ -1,1 +1,1 @@
-# Javascript-Coding-Challange
+# TypeScript-Practice
